@@ -1,0 +1,7 @@
+Name : Swapnil , age: 22 , Marks : 100, lang : python
+Name : prathamesh , age: 22 , Marks : 78,lang : php
+Name : ayush , age: 22 , Marks : 87, lang : java
+Name : gagan , age: 22 , Marks : 54 , lang : python
+Name : omakr , age: 22 , Marks : 75 , lang : .net
+Name : prawal , age: 22 , Marks : 66, lang : python
+name : Anna, age: 67, marks: 78, lang: java

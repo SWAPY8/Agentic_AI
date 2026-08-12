@@ -1,0 +1,3 @@
+Name : Swapnil , age: 22 , Marks : 100, lang : python
+Name : gagan , age: 22 , Marks : 54 , lang : python
+Name : prawal , age: 22 , Marks : 66, lang : python
